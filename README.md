@@ -74,4 +74,4 @@ This project was developed to strengthen skills in:
 
 ## Author
 
-Kevser Demir
+Rümeysa Demir
