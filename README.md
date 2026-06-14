@@ -71,6 +71,9 @@ This project was developed to strengthen skills in:
 - Dark mode support
 - Advanced mathematical operations
 - Improved UI design
+  ## Screenshot
+
+![Scientific Calculator](screenshot.png)
 
 ## Author
 
